@@ -1,6 +1,6 @@
 <h1 align="center">waifetch</h1>
 
-<p align="center">Fun CLI for displaying anime girls holding programming books in your terminal uWu</p>
+<p align="center">Fun CLI for displaying programmer waifus in your terminal uWu</p>
 
 ## Features
 
@@ -10,22 +10,6 @@
 - **High-quality rendering** using chafa with 256 colors and ordered dithering
 
 ## Installation
-
-### Via `go install`
-
-```bash
-go install github.com/ashish0kumar/waifetch@latest
-```
-
-### Build from Source
-
-```bash
-git clone https://github.com/ashish0kumar/waifetch.git
-cd waifetch/
-go build
-sudo mv waifetch /usr/local/bin/
-waifetch --help
-```
 
 ### Required Dependencies
 
@@ -49,6 +33,22 @@ sudo dnf install chafa
 
 # Nix
 nix-env -iA nixpkgs.chafa
+```
+
+### Via `go install`
+
+```bash
+go install github.com/ashish0kumar/waifetch@latest
+```
+
+### Build from Source
+
+```bash
+git clone https://github.com/ashish0kumar/waifetch.git
+cd waifetch/
+go build
+sudo mv waifetch /usr/local/bin/
+waifetch --help
 ```
 
 ## Usage
