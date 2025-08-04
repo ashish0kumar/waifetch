@@ -2,6 +2,12 @@
 
 <p align="center">Fun CLI for displaying programmer waifus in your terminal uWu</p>
 
+<p align="center">
+    <img width="70%" alt="showcase" src="https://github.com/user-attachments/assets/ecf67454-fe68-4eba-bfd1-4332165755c4" />
+</p>
+
+---
+
 ## Features
 
 - **Dynamic terminal display** with images rendered directly in your terminal
