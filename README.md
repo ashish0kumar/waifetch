@@ -1,6 +1,6 @@
 <h1 align="center">waifetch</h1>
 
-<p align="center">Fun CLI for displaying programmer waifus in your terminal uWu</p>
+<p align="center">A fun CLI that displays random anime girls holding programming books in your terminal</p>
 
 <p align="center">
     <img width="70%" alt="showcase" src="https://github.com/user-attachments/assets/ecf67454-fe68-4eba-bfd1-4332165755c4" />
